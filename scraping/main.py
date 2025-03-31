@@ -10,6 +10,9 @@ logging.basicConfig(
     format="%(asctime)s - %(levelname)s - %(message)s"
 )
 
+
+
+
 def run_scraper() -> None:
     """
     Executa o scraper para capturar links de PDFs, baixar e compactá-los.
