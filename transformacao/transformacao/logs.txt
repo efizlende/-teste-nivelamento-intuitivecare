@@ -1,0 +1,5 @@
+2025-03-31 13:47:10,694 - INFO - Iniciando o processo de transformação...
+2025-03-31 13:48:36,814 - INFO - Tabela extraída com sucesso do PDF.
+2025-03-31 13:48:36,890 - INFO - CSV salvo em transformacao/Rol_de_Procedimentos.csv
+2025-03-31 13:48:36,920 - INFO - Arquivo ZIP salvo em transformacao/Ernesto_Orlando_Uanicela.zip
+2025-03-31 13:48:36,920 - INFO - Processo concluído com sucesso!
