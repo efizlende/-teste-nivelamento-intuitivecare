@@ -40,3 +40,5 @@ CREATE TABLE demonstrativos_contabeis (
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
     CONSTRAINT fk_operadora FOREIGN KEY (registro_ans) REFERENCES operadoras(registro_ans) ON DELETE CASCADE
 );
+
+
