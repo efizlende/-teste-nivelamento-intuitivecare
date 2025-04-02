@@ -4,10 +4,16 @@ Objetivo: Desenvolver uma interface web com Vue.js que interaja com um servidor 
 Passos Realizados:
 
 Frontend em Vue.js: Desenvolvi uma interface web que permite ao usuário buscar operadoras utilizando uma API backend.
+![Interface ](imagens/interface.png)
+![Interface ](imagens/interfacee.png)
+
 
 Backend em Python: O servidor Python expõe uma API REST que realiza uma busca textual nos dados das operadoras.
 
 Postman: Criei uma coleção no Postman para demonstrar a interação com a API e testar os endpoints.
+
+![Interface ](imagens/postman.png)
+![Interface ](imagens/postmann.png)
 
 Tecnologias Utilizadas:
 
