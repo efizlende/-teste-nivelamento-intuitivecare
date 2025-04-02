@@ -16,7 +16,7 @@ def get_db_connection():
 
 
 
-# Teste da conexao com o banco de dados
+# Testando a conexao com o banco de dados
 if __name__ == "__main__":
     conn = get_db_connection()
     if conn:

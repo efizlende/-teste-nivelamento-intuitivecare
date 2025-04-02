@@ -2,6 +2,8 @@ import psycopg2
 from conexao import get_db_connection
 
 
+
+
 def search_operadoras(query):
     """
     Realiza uma busca textual na tabela de operadoras do banco de dados.
